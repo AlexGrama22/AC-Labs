@@ -10,7 +10,7 @@ global Start
 
 section .data
 
-MessageBoxMessage db "Sunteti multumitit de caliatatea drumurilor din Moldova?", 0
+MessageBoxMessage db "Can I close this window?", 0
 MessageBoxTitle db "Chestionar", 0
 
 section .text
